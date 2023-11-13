@@ -14,7 +14,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 LOG_GROUP_ID = int(getenv("LOG_GROUP_ID"))
-MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹𝐌ᴀʜᴇsʜ⟅ ✘ 𝐌ᴜsɪᴄ˼")
+MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "˹𝐓𝐀𝐋𝐈𝐀 𝐖𝐈𝐍𝐀𝐌𝐏 𝐌𝐔𝐙𝐈𝐊 𝐁𝐎𝐓˼")
 
 OWNER_ID = list(map(int, getenv("OWNER_ID", "1362133845").split()))
 
